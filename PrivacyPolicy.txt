@@ -1,0 +1,44 @@
+Since the main goal of this service is to protect the user's privacy there is not much to talk about, but I should still clear up a few things.
+
+
+The data collected by the app
+
+To provide the app's services personal data must be stored on your device. This personal data is:
+
+- Your name
+- Your weight
+- The workouts you record, including individual locations you were at and their metadata
+
+The app will also save other data not directly as associable with your person, typically just your preferences, but also other information required to make some features of the app function.
+
+The aforementioned data will always stay locally on your device, except if you choose to share it.
+
+
+The data shared by the app
+
+By default the app does not share your data at all. Everything stays local and except to get the newest version of this privacy policy or other policies there is no connection to the internet being established.
+
+The app does provide two ways to share your personal data though:
+
+1. Apple Health
+
+When you choose to synchronise your data with Apple Health, by enabling that option in the 'Settings' tab of the app or saving your workouts manually via a button in the statistics page of a workout, the selected workout(s) or your newly saved weight will be saved to the Apple-Health-Store. By that point the app does not have full control over the data anymore. To see how Apple handles your data you should read their policies.
+    
+2. Backup
+
+Since the app does provide the option to create a backup, storing your data in plain text, you should be aware that once you save it or send it to someone else the app does not have any control over the data anymore, so it is your responsibility to keep it safe.
+
+
+Deletion of your data in the app
+
+To delete any last bit of data stored inside the app itself you can uninstall it or press the delete button in the 'Settings' tab. For the data saved in Apple Health or in backups you created I cannot take responsibility.
+
+
+Handling of your data on the website
+
+The website itself does not collect any data from you. Since I am not the hoster of the website different policies apply. 
+
+
+Contact
+
+For any further question regarding how the app handles your data you can contact return@tadris.de.
